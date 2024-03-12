@@ -1,4 +1,4 @@
-# How perform Screenshot?
+# How perform Screenshot? (如何進行畫面截圖)
 
 ## In Windows 11?
 
