@@ -1,6 +1,6 @@
 # 單元03. 零基礎Colab Python快速入門與實作
 
-## Stage 1: 零基礎Python快速入門與實作
+## Stage 1: 零基礎Python快速入門與實作  
 
 ### Date: 2024.03.19
 
@@ -11,10 +11,14 @@
 
 
 
-## Stage 1: 零基礎Python快速入門與實作
+## Stage 2: 零基礎Python快速入門與實作
 
 
-## Stage 1: 零基礎Python快速入門與實作
 
 
-## Stage 1: 零基礎Python快速入門與實作
+## Stage 3: 零基礎Python快速入門與實作
+
+
+
+
+## Stage 4: 零基礎Python快速入門與實作
