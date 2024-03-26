@@ -10,6 +10,11 @@
 ![image](https://github.com/Grace-TA/Python2024/assets/89304181/58f30136-8131-423b-902c-e786bcde1c23)
 
 
+### Date: 2024.0.26
+
+![image](https://github.com/Grace-TA/Python2024/assets/89304181/fad4ea11-29a9-4b19-be43-5c5b1e573c00)
+
+
 
 ## Stage 2: 零基礎Python快速入門與實作
 
