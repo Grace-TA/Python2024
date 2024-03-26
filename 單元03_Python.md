@@ -12,7 +12,8 @@
 
 ### Date: 2024.03.26
 
-![image](https://github.com/Grace-TA/Python2024/assets/89304181/fad4ea11-29a9-4b19-be43-5c5b1e573c00)
+![image](https://github.com/Grace-TA/Python2024/assets/89304181/ee0b3c37-6e96-48ca-86e4-a1d8d4222a95)
+
 
 
 
