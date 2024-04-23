@@ -21,9 +21,19 @@
 
 ![image](https://github.com/Grace-TA/Python2024/assets/89304181/7d150986-7438-4e25-a20d-dec21f9aedee)
 
+![image](https://github.com/Grace-TA/Python2024/assets/89304181/9d0d2221-6287-41d1-8f3d-568db473c881)
+
 
 ## Challenge
 
+### Chalenge 1: List + For Loop
+
 ![image](https://github.com/Grace-TA/Python2024/assets/89304181/87000749-23ff-47be-8d74-bcef3c87c10e)
 
+## Challenge 2: List + While Loop
+
 ![image](https://github.com/Grace-TA/Python2024/assets/89304181/b625044d-3492-48f8-87a5-6201ec23f348)
+
+## Challenge 3: Directiornary + For Loop
+
+![image](https://github.com/Grace-TA/Python2024/assets/89304181/ef72dfe6-aa91-4f44-9f70-ef35e1ca08c0)
