@@ -88,3 +88,11 @@ print('*** %s! Done by %s at ' % ('Good Job',sID),today)
 ```
 ### Output Result
 ![image](https://github.com/Grace-TA/Python2024/assets/89304181/88c32994-a83e-4c28-acb4-4274d8354b0f)
+
+
+## Your Show Time: Challenge 3: 如何用 matplotlib 繪製一個圓？
+
+![image](https://github.com/Grace-TA/Python2024/assets/89304181/5c239deb-eb9b-436e-a814-e8a6480ebb34)
+
+
+
