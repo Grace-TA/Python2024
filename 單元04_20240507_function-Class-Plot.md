@@ -1,5 +1,7 @@
-# A. What is Function? and Class?
+### Undegoing
+
+## A. What is Function? and Class?
 
 
-# B. How to plot?
+## B. How to plot?
 
