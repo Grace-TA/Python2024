@@ -1,5 +1,8 @@
 # Function? Class? plot?
 
+> 在寫程式碼時有一個非常重要的觀念是DRY(Don’t Repeat Yourself)，意思是避免同樣的程式碼重複出現在很多個地方，除了可讀性很低外，也不易維護。所以要適當的進行封裝，來達到程式碼的重用性(Reusable)。
+> 今天的重點就是要來教大家如何建構自己的 Python函式(Function)，就是能夠讓你的程式碼被重複的使用(Reusable)，並且提高維護性及可讀性!!
+
 ## 1. Function, List, For Loop
 
 ![image](https://github.com/Grace-TA/Python2024/assets/89304181/32e2ded7-5853-4537-84f0-87eb3c439630)
