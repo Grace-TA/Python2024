@@ -39,7 +39,7 @@
 
 ## Your Show Time: Challenge 1
 
-![image](https://github.com/Grace-TA/Python2024/assets/89304181/b5684d50-c5b6-47ff-9256-c6f5e0fd41ca)
+![image](https://github.com/Grace-TA/Python2024/assets/89304181/675010c4-7e0d-4d51-aa8e-31991522ecda)
 
 ## Your Show Time: Challenge 2
 
